@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo sobre **Data Science, Machine Learning y otras herramientas.**
 
-- 📱 Desarrolle una aplicación móvil **DHB Gym App.**
+- 📱 Desarrollé una aplicación móvil **DHB Gym App.**
 
 - 🤝 Estoy interesado en colaborar con proyectos de **análisis y ciencia de datos**
 
