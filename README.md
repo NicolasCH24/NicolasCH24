@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Nicolás Chaparro</h1>
-<h3 align="center">Estoy estudiando Análisis de sistemas y me especializo en programación en el campo de Data Science.</h3>
+<h3 align="center">Técnico Superior en Análisis de Sistemas, especializandome en el campo de Data Science.</h3>
 
 - 🔭 Actualmente trabajo en [CN Soluciones Informáticas](https://www.instagram.com/cn_solucionesinformaticas/)
 
