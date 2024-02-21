@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Nicolás Chaparro</h1>
+<h1 align="center">Hola! 👋, Me llamo Nicolás Chaparro</h1>
 <h3 align="center">Técnico Superior en Análisis de Sistemas | Data Analytics | Data Science</h3>
 
 - 🔭 Emprendimiento personal en [CN Soluciones Informáticas](https://www.instagram.com/cn_solucionesinformaticas/)
