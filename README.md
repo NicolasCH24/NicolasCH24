@@ -43,7 +43,7 @@
 
 - 📝 Active in [LinkedIn Profile](https://www.linkedin.com/in/nicolas-chaparro-012aa325a/)
 
-- 💬 Talk about **Predictive Algorithms and Forecasting.** in [My projects on Kaggle](https://www.kaggle.com/code/nicolaschaparro/forecast-autoreg-autoreg-direct)
+- 💬 Talk about **Predictive Algorithms and Forecasting.** In [My projects on Kaggle](https://www.kaggle.com/code/nicolaschaparro/forecast-autoreg-autoreg-direct)
 
 - 📫 Contact **nico.sp903@gmail.com**
 
