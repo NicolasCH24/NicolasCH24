@@ -108,7 +108,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolasCH24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasCH24&show_icons=true&theme=radical" alt="Nicolás's GitHub stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCH24&theme=radical" alt="Nicolás's Streak Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCH24&layout=compact&theme=radical" alt="Nicolás's Top Languages" height="200"/>
 </div>
 
 ###
