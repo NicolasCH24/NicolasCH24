@@ -109,8 +109,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasCH24&show_icons=true&theme=radical" alt="Nicolás's GitHub stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCH24&theme=radical" alt="Nicolás's Streak Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCH24&layout=compact&theme=radical" alt="Nicolás's Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasCH24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </div>
 
 ###
+
